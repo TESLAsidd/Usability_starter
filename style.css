@@ -47,7 +47,7 @@ ul {
   padding: 0 var(--padding-inline-section);
 }
 .top-banner {
-  background-image: url(./assets/asset\ 32.png);
+  background-image: url(./assets/asset_32.png);
   background-color: #4fb3d4;
   background-size: 300px;
 }
@@ -155,7 +155,7 @@ header {
 }
 .features-area {
   flex-wrap: wrap;
-  background-image: url(./assets/asset\ 34.svg);
+  background-image: url(./assets/asset_34.svg);
   background-repeat: no-repeat;
   background-position: center;
   justify-content: space-evenly;
@@ -199,22 +199,22 @@ header {
 }
 .example-card:nth-child(1) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(./assets/asset\ 36.jpeg);
+    url(./assets/asset_36.jpeg);
   background-size: cover;
 }
 .example-card:nth-child(2) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(./assets/asset\ 37.jpeg);
+    url(./assets/asset_37.jpeg);
   background-size: cover;
 }
 .example-card:nth-child(3) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(./assets/asset\ 38.jpeg);
+    url(./assets/asset_38.jpeg);
   background-size: cover;
 }
 .example-card:nth-child(4) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(./assets/asset\ 39.jpeg);
+    url(./assets/asset_39.jpeg);
   background-size: cover;
 }
 .cta-section {
